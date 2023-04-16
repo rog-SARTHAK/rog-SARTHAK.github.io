@@ -2,11 +2,23 @@
 
 
 # H1
-## H2 Natural Language Processing:
+## H2 Natural Language Processing or NLP:
 
 NLP is a field of computational linguistics to process, parse and extract human language.
 Some areas of NLP. Named Entity Recognition (NER), Part-of-Speech Tagging (POS), Syntactic Parsing, Text Categorization, Coreference Resolution, Machine Translation.
-### H3
+
+## H2 Natural Language Understanding or NLU:
+
+A sub-set of NLP is NLU. In this process, we deal with operations like Relation Extraction, Semantic Parsing, Question and Answering, Summarization, Paraphrasing, Sentiment Analysis.
+
+##SpaCy:
+
+A framework for NLP which works in Python.
+
+### H3 SpaCy Installation
+
+
+
 #### H4
 ##### H5
 ###### H6
