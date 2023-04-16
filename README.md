@@ -17,8 +17,8 @@ A framework for NLP which works in Python.
 
 ### H3 SpaCy Installation and loading:
 
-![gigachad img]("https://raw.githubusercontent.com/rog-SARTHAK/rog-SARTHAK.github.io/main/Img/gigachad.jpg")
 
+<p align="left"> <img src="https://raw.githubusercontent.com/rog-SARTHAK/rog-SARTHAK.github.io/main/Img/gigachad.jpg" alt="gigachad" /> </p>
 
 
 This is gigachad image
