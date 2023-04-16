@@ -2,9 +2,10 @@
 
 
 # H1
-## H2 NLP:
+## H2 Natural Language Processing:
 
 NLP is a field of computational linguistics to process, parse and extract human language.
+Some areas of NLP. Named Entity Recognition (NER), Part-of-Speech Tagging (POS), Syntactic Parsing, Text Categorization, Coreference Resolution, Machine Translation.
 ### H3
 #### H4
 ##### H5
