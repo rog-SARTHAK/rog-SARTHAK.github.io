@@ -11,13 +11,13 @@ Some areas of NLP. Named Entity Recognition (NER), Part-of-Speech Tagging (POS),
 
 A sub-set of NLP is NLU. In this process, we deal with operations like Relation Extraction, Semantic Parsing, Question and Answering, Summarization, Paraphrasing, Sentiment Analysis.
 
-##SpaCy:
+## SpaCy:
 
 A framework for NLP which works in Python.
 
-### H3 SpaCy Installation
+### H3 SpaCy Installation and loading:
 
-src="/Img/gigachad.jpg"
+src="./Img/gigachad.jpg"
 
 This is gigachad image
 
