@@ -63,6 +63,10 @@ lemma form, morphological form, parts of speech and dependency form
 
 <p align="left"> <img src="https://raw.githubusercontent.com/rog-SARTHAK/rog-SARTHAK.github.io/main/Img/11.png" alt="token sent" width="700" height="400" /> </p>
 
+lang_ , sentence morph
+
+<p align="left"> <img src="https://raw.githubusercontent.com/rog-SARTHAK/rog-SARTHAK.github.io/main/Img/12.png" alt="token sent" width="700" height="400" /> </p>
+
 #### H4
 ##### H5
 ###### H6
