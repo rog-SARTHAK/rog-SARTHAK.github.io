@@ -42,6 +42,9 @@ Sentence Boundary Detection (SBD) in NLP is identification of sentences ina text
 In english, abbreviation of word is also demarcated with period punctuation.
 So we can't just split and demarcate a sentence just separated by period.
 
+We will now tokenise entire text to sentence level
+
+<p align="left"> <img src="https://raw.githubusercontent.com/rog-SARTHAK/rog-SARTHAK.github.io/main/Img/07.png" alt="token sent" width="500" height="400" /> </p>
 
 This is gigachad image
 
