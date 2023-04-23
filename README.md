@@ -38,6 +38,11 @@ If we split tokens by white space separation, it would look something like this
 <p align="left"> <img src="https://raw.githubusercontent.com/rog-SARTHAK/rog-SARTHAK.github.io/main/Img/06.png" alt="txt obj doc obj" width="500" height="400" /> </p>
 
 
+Sentence Boundary Detection (SBD) in NLP is identification of sentences ina text.
+In english, abbreviation of word is also demarcated with period punctuation.
+So we can't just split and demarcate a sentence just separated by period.
+
+
 This is gigachad image
 
 #### H4
