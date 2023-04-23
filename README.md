@@ -24,6 +24,10 @@ A framework for NLP which works in Python.
 
 <p align="left"> <img src="https://raw.githubusercontent.com/rog-SARTHAK/rog-SARTHAK.github.io/main/Img/02. open nlp data.png" alt="dataframe" width="500" /> </p>
 
+### Text object and doc object difference:
+
+<p align="left"> <img src="https://raw.githubusercontent.com/rog-SARTHAK/rog-SARTHAK.github.io/main/Img/04.text obj doc obj.png" alt="txt obj doc obj" width="500" /> </p>
+
 
 This is gigachad image
 
