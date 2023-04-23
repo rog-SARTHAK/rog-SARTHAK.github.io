@@ -59,6 +59,8 @@ Printing Entity form
 
 <p align="left"> <img src="https://raw.githubusercontent.com/rog-SARTHAK/rog-SARTHAK.github.io/main/Img/10.png" alt="token sent" width="700" height="400" /> </p>
 
+lemma form, morphological form, parts of speech and dependency form
+
 <p align="left"> <img src="https://raw.githubusercontent.com/rog-SARTHAK/rog-SARTHAK.github.io/main/Img/11.png" alt="token sent" width="700" height="400" /> </p>
 
 #### H4
