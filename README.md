@@ -48,7 +48,7 @@ We will now tokenise entire text to sentence level
 
 To access one of the sentence we have to convert and access as a list
 
-<p align="left"> <img src="https://raw.githubusercontent.com/rog-SARTHAK/rog-SARTHAK.github.io/main/Img/08.png" alt="token sent" width="700" height="400" /> </p>
+<p align="left"> <img src="https://raw.githubusercontent.com/rog-SARTHAK/rog-SARTHAK.github.io/main/Img/08.png" alt="token sent" width="700" height="50" /> </p>
 
 This is gigachad image
 
