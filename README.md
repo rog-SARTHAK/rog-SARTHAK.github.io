@@ -53,7 +53,7 @@ To access one of the sentence we have to convert and access as a list
 Each individual token has a bunch of meta-deta buried within it
 This meta-data is called attributes
 
-<p align="left"> <img src="https://raw.githubusercontent.com/rog-SARTHAK/rog-SARTHAK.github.io/main/Img/09.png" alt="token sent" width="700" height="100" /> </p>
+<p align="left"> <img src="https://raw.githubusercontent.com/rog-SARTHAK/rog-SARTHAK.github.io/main/Img/09.png" alt="token sent" width="700" height="400" /> </p>
 
 #### H4
 ##### H5
