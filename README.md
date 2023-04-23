@@ -33,6 +33,11 @@ A framework for NLP which works in Python.
 SpaCy automatically detects characters with period like U.S.A.
 SpaCy removed the punctuation mark like the parenthesis (U.S.A. or USA) and treated them as individual characters
 
+If we split tokens by white space separation, it would look something like this
+
+<p align="left"> <img src="https://raw.githubusercontent.com/rog-SARTHAK/rog-SARTHAK.github.io/main/Img/06.png" alt="txt obj doc obj" width="500" height="400" /> </p>
+
+
 This is gigachad image
 
 #### H4
