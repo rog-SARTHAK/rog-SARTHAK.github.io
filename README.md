@@ -67,6 +67,13 @@ lang_ , sentence morph
 
 <p align="left"> <img src="https://raw.githubusercontent.com/rog-SARTHAK/rog-SARTHAK.github.io/main/Img/12.png" alt="token sent" width="700" height="400" /> </p>
 
+Spacy displacy
+
+<p align="left"> <img src="https://raw.githubusercontent.com/rog-SARTHAK/rog-SARTHAK.github.io/main/Img/13.png" alt="token sent" width="700" height="400" /> </p>
+
+
+<p align="left"> <img src="https://raw.githubusercontent.com/rog-SARTHAK/rog-SARTHAK.github.io/main/Img/14.PoS.png" alt="token sent" width="700" height="400" /> </p>
+
 #### H4
 ##### H5
 ###### H6
