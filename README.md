@@ -30,6 +30,8 @@ A framework for NLP which works in Python.
 
 <p align="left"> <img src="https://raw.githubusercontent.com/rog-SARTHAK/rog-SARTHAK.github.io/main/Img/05.png" alt="txt obj doc obj" width="500" height="600" /> </p>
 
+SpaCy automatically detects characters with period like U.S.A.
+SpaCy removed the punctuation mark like the parenthesis (U.S.A. or USA) and treated them as individual characters
 
 This is gigachad image
 
