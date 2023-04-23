@@ -1,13 +1,13 @@
 # rog-SARTHAK.github.io
 
 
-# H1 SpaCy Tutorial
-## H2 Natural Language Processing or NLP:
+# SpaCy Tutorial
+## Natural Language Processing or NLP:
 
 NLP is a field of computational linguistics to process, parse and extract human language.
 Some areas of NLP. Named Entity Recognition (NER), Part-of-Speech Tagging (POS), Syntactic Parsing, Text Categorization, Coreference Resolution, Machine Translation.
 
-## H2 Natural Language Understanding or NLU:
+## Natural Language Understanding or NLU:
 
 A sub-set of NLP is NLU. In this process, we deal with operations like Relation Extraction, Semantic Parsing, Question and Answering, Summarization, Paraphrasing, Sentiment Analysis.
 
@@ -15,12 +15,14 @@ A sub-set of NLP is NLU. In this process, we deal with operations like Relation 
 
 A framework for NLP which works in Python.
 
-### H3 SpaCy Installation and loading:
+### SpaCy Installation and loading:
 
 
 <p align="left"> <img src="https://raw.githubusercontent.com/rog-SARTHAK/rog-SARTHAK.github.io/main/Img/01. import load.png" alt="import load" width="600" /> </p>
 
-<p align="left"> <img src="https://raw.githubusercontent.com/rog-SARTHAK/rog-SARTHAK.github.io/main/Img/gigachad.jpg" alt="gigachad" width="500" height="600"/> </p>
+### Load the dataframe:
+
+<p align="left"> <img src="https://raw.githubusercontent.com/rog-SARTHAK/rog-SARTHAK.github.io/main/Img/02. open nlp data.png" alt="dataframe" width="500" /> </p>
 
 
 This is gigachad image
