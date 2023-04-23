@@ -28,6 +28,8 @@ A framework for NLP which works in Python.
 
 <p align="left"> <img src="https://raw.githubusercontent.com/rog-SARTHAK/rog-SARTHAK.github.io/main/Img/04.text obj doc obj.png" alt="txt obj doc obj" width="500" /> </p>
 
+<p align="left"> <img src="https://raw.githubusercontent.com/rog-SARTHAK/rog-SARTHAK.github.io/main/Img/05.png" alt="txt obj doc obj" width="500" height="600" /> </p>
+
 
 This is gigachad image
 
