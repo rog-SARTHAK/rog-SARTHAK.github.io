@@ -74,6 +74,12 @@ Spacy displacy
 
 <p align="left"> <img src="https://raw.githubusercontent.com/rog-SARTHAK/rog-SARTHAK.github.io/main/Img/14.PoS.png" alt="token sent" width="700" height="400" /> </p>
 
+
+Named Entity Recognition or NER
+Iterate over doc object
+
+<p align="left"> <img src="https://raw.githubusercontent.com/rog-SARTHAK/rog-SARTHAK.github.io/main/Img/15.png" alt="token sent" width="700" height="400" /> </p>
+
 #### H4
 ##### H5
 ###### H6
