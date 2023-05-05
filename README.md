@@ -19,6 +19,9 @@ SpaCy is a framework for NLP which works in Python.
 
 Open Google colab notebook or Jupyter notebook and follow through the instructions and code.
 
+### Find the dataset here:
+https://github.com/rog-SARTHAK/rog-SARTHAK.github.io/tree/main/Dataset
+
 ### SpaCy Installation and loading:
 
 
