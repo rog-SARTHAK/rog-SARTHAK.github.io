@@ -88,6 +88,8 @@ We will now explore word vectors in spacy medium model
 
 <p align="left"> <img src="https://raw.githubusercontent.com/rog-SARTHAK/rog-SARTHAK.github.io/main/Img/17.png" alt="token sent" width="700" height="400" /> </p>
 
+Using word vectors using spacy
+
 <p align="left"> <img src="https://raw.githubusercontent.com/rog-SARTHAK/rog-SARTHAK.github.io/main/Img/18.png" alt="token sent" width="700" height="400" /> </p>
 
 <p align="left"> <img src="https://raw.githubusercontent.com/rog-SARTHAK/rog-SARTHAK.github.io/main/Img/19.png" alt="token sent" width="700" height="400" /> </p>
