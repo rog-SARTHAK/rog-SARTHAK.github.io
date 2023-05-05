@@ -13,7 +13,11 @@ A sub-set of NLP is NLU. In this process, we deal with operations like Relation 
 
 ## SpaCy:
 
-A framework for NLP which works in Python.
+SpaCy is a framework for NLP which works in Python.
+
+### Get started:
+
+Open Google colab notebook or Jupyter notebook and follow through the instructions and code.
 
 ### SpaCy Installation and loading:
 
@@ -67,7 +71,7 @@ lang_ , sentence morph
 
 <p align="left"> <img src="https://raw.githubusercontent.com/rog-SARTHAK/rog-SARTHAK.github.io/main/Img/12.png" alt="token sent" width="700" height="400" /> </p>
 
-Spacy displacy
+### Spacy displacy
 
 <p align="left"> <img src="https://raw.githubusercontent.com/rog-SARTHAK/rog-SARTHAK.github.io/main/Img/13.png" alt="token sent" width="300" height="100" /> </p>
 
@@ -75,7 +79,7 @@ Spacy displacy
 <p align="left"> <img src="https://raw.githubusercontent.com/rog-SARTHAK/rog-SARTHAK.github.io/main/Img/14.PoS.png" alt="token sent" width="700" height="400" /> </p>
 
 
-## Named Entity Recognition or NER
+### Named Entity Recognition or NER
 
 Iterate over doc object
 
@@ -88,7 +92,7 @@ We will now explore word vectors in spacy medium model
 
 <p align="left"> <img src="https://raw.githubusercontent.com/rog-SARTHAK/rog-SARTHAK.github.io/main/Img/17.png" alt="token sent" width="700" height="400" /> </p>
 
-Using word vectors using spacy
+Using word vectors with spacy
 
 <p align="left"> <img src="https://raw.githubusercontent.com/rog-SARTHAK/rog-SARTHAK.github.io/main/Img/18.png" alt="token sent" width="700" height="400" /> </p>
 
@@ -96,13 +100,13 @@ Word embedding - apple and banana
 
 <p align="left"> <img src="https://raw.githubusercontent.com/rog-SARTHAK/rog-SARTHAK.github.io/main/Img/19.png" alt="token sent" width="700" height="400" /> </p>
 
-Spacy nlp pipeline
+###Spacy nlp pipeline
 
 <p align="left"> <img src="https://raw.githubusercontent.com/rog-SARTHAK/rog-SARTHAK.github.io/main/Img/20.png" alt="token sent" width="700" height="400" /> </p>
 
 <p align="left"> <img src="https://raw.githubusercontent.com/rog-SARTHAK/rog-SARTHAK.github.io/main/Img/21.png" alt="token sent" width="700" height="400" /> </p>
 
-Rule based spacy
+### Rule based spacy
 
 <p align="left"> <img src="https://raw.githubusercontent.com/rog-SARTHAK/rog-SARTHAK.github.io/main/Img/22.png" alt="token sent" width="700" height="400" /> </p>
 
@@ -110,7 +114,7 @@ Rule based spacy
 
 <p align="left"> <img src="https://raw.githubusercontent.com/rog-SARTHAK/rog-SARTHAK.github.io/main/Img/24.png" alt="token sent" width="700" height="400" /> </p>
 
-Spacy Matcher
+### Spacy Matcher
 
 <p align="left"> <img src="https://raw.githubusercontent.com/rog-SARTHAK/rog-SARTHAK.github.io/main/Img/25.png" alt="token sent" width="700" height="400" /> </p>
 
