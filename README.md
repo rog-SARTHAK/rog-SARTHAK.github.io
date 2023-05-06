@@ -15,7 +15,7 @@ A sub-set of NLP is NLU. In this process, we deal with operations like Relation 
 
 SpaCy is a framework for NLP which works in Python.
 
-### Get started:
+### Dependencies to get started:
 
 Open Google colab notebook or Jupyter notebook and follow through the instructions and code.
 
