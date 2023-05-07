@@ -85,10 +85,6 @@ For example, consider the following sentence:
 
 The NER component in spaCy might identify "Apple" as an organization, "UK" as a geopolitical entity, and "$1 billion" as a monetary value. For each of these entities, spaCy assigns a specific ent_type attribute based on the entity's category, such as "ORG" for organizations, "GPE" for geopolitical entities, and "MONEY" for monetary values.
 
-lemma form, morphological form, parts of speech and dependency form
-
-<p align="left"> <img src="https://raw.githubusercontent.com/rog-SARTHAK/rog-SARTHAK.github.io/main/Img/11.png" alt="token sent" width="700" height="400" /> </p>
-
 ### ent_iob_:
 In spaCy, ent_iob_ is another attribute that is used in conjunction with ent_type_ to represent the named entity recognition (NER) tags for each token in a document.
 
@@ -103,6 +99,13 @@ For example, consider the following sentence:
 "The CEO of Apple, Tim Cook, announced a new product yesterday."
 
 The NER component in spaCy might identify "Apple" as an organization and "Tim Cook" as a person. The ent_type_ attribute for the token "Apple" would be set to "ORG", and the ent_iob_ attribute would be set to "B" since it is the first token in the named entity. The ent_type_ attribute for the token "Tim Cook" would also be set to "PERSON", but the ent_iob_ attribute would be set to "I" since it is inside the named entity.
+
+### lemma: .lemma refers to the base or dictionary form of a word. It is the form of the word that appears in a dictionary, and it is the form to which inflected forms (such as plurals or verb conjugations) can be reduced.
+
+lemma form, morphological form, parts of speech and dependency form
+
+<p align="left"> <img src="https://raw.githubusercontent.com/rog-SARTHAK/rog-SARTHAK.github.io/main/Img/11.png" alt="token sent" width="700" height="400" /> </p>
+
 
 lang_ , sentence morph
 
