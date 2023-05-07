@@ -103,7 +103,11 @@ Word embedding - apple and banana
 
 <p align="left"> <img src="https://raw.githubusercontent.com/rog-SARTHAK/rog-SARTHAK.github.io/main/Img/19.png" alt="token sent" width="700" height="400" /> </p>
 
-###Spacy nlp pipeline
+### Spacy nlp pipeline
+
+The processing pipeline consists of one or more pipeline components that are called on the Doc in order. The tokenizer runs before the components. Pipeline components can be added using Language.add_pipe. They can contain a statistical model and trained weights, or only make rule-based modifications to the Doc. spaCy provides a range of built-in components for different language processing tasks and also allows adding custom components.
+
+Text -> tokenizer -> tagger -> parser -> ner ... -> Doc
 
 <p align="left"> <img src="https://raw.githubusercontent.com/rog-SARTHAK/rog-SARTHAK.github.io/main/Img/20.png" alt="token sent" width="700" height="400" /> </p>
 
@@ -118,6 +122,8 @@ Word embedding - apple and banana
 <p align="left"> <img src="https://raw.githubusercontent.com/rog-SARTHAK/rog-SARTHAK.github.io/main/Img/24.png" alt="token sent" width="700" height="400" /> </p>
 
 ### Spacy Matcher
+
+Matchers help you find and extract information from Doc objects based on match patterns describing the sequences you’re looking for. A matcher operates on a Doc and gives you access to the matched tokens in context.
 
 <p align="left"> <img src="https://raw.githubusercontent.com/rog-SARTHAK/rog-SARTHAK.github.io/main/Img/25.png" alt="token sent" width="700" height="400" /> </p>
 
