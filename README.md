@@ -2,6 +2,9 @@
 
 
 # SpaCy Tutorial
+
+<p align="left"> <img src="https://raw.githubusercontent.com/rog-SARTHAK/rog-SARTHAK.github.io/main/Img/logo.png" alt="import load" width="600" /> </p>
+
 ## Natural Language Processing or NLP:
 
 NLP is a field of computational linguistics to process, parse and extract human language.
