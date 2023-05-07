@@ -200,6 +200,8 @@ We will grab all the proper nouns and print it with its corresponding lexxim
 
 <p align="left"> <img src="https://raw.githubusercontent.com/rog-SARTHAK/rog-SARTHAK.github.io/main/Img/27.png" alt="token sent" width="700" height="400" /> </p>
 
+### Matcher:
+
 The Matcher class is a tool for matching sequences of tokens based on their attributes. It allows you to define patterns that describe the structure of the text you are interested in, and then match those patterns against a Doc object to find all occurrences of the pattern.
 
 The Matcher class works by defining a set of rules, where each rule specifies a pattern of tokens to match and any constraints on their attributes. A rule is defined as a list of dictionaries, where each dictionary represents a token in the pattern and specifies its attributes.
