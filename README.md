@@ -23,6 +23,8 @@ Text annotations are also designed to allow a single source of truth: the Doc ob
 
 <p align="left"> <img src="https://raw.githubusercontent.com/rog-SARTHAK/rog-SARTHAK.github.io/main/Img/00.png" alt="import load" height="600" width="600" /> </p>
 
+Img src: SpaCy documentation
+
 ### Dependencies to get started:
 
 Open Google colab notebook or Jupyter notebook and follow through the instructions and code.
@@ -74,9 +76,33 @@ Printing Entity form
 
 <p align="left"> <img src="https://raw.githubusercontent.com/rog-SARTHAK/rog-SARTHAK.github.io/main/Img/10.png" alt="token sent" width="700" height="400" /> </p>
 
+### ent_type: 
+In spaCy, ent_type refers to the entity type assigned to a particular token or span of text by the named entity recognition (NER) component of the spaCy pipeline. Named entity recognition is the process of identifying and categorizing specific named entities in text, such as people, organizations, locations, and dates. The ent_type attribute in spaCy provides information about the specific type of named entity that was identified by the NER component.
+
+For example, consider the following sentence:
+
+"Apple is looking to buy a startup in the UK for $1 billion."
+
+The NER component in spaCy might identify "Apple" as an organization, "UK" as a geopolitical entity, and "$1 billion" as a monetary value. For each of these entities, spaCy assigns a specific ent_type attribute based on the entity's category, such as "ORG" for organizations, "GPE" for geopolitical entities, and "MONEY" for monetary values.
+
 lemma form, morphological form, parts of speech and dependency form
 
 <p align="left"> <img src="https://raw.githubusercontent.com/rog-SARTHAK/rog-SARTHAK.github.io/main/Img/11.png" alt="token sent" width="700" height="400" /> </p>
+
+### ent_iob_:
+In spaCy, ent_iob_ is another attribute that is used in conjunction with ent_type_ to represent the named entity recognition (NER) tags for each token in a document.
+
+ent_iob_ is short for "inside-outside-beginning", and it indicates the position of a token relative to a named entity in the document. There are three possible values for ent_iob_:
+
+"B": Beginning - this token is the first in a named entity.
+"I": Inside - this token is inside a named entity, but is not the first.
+"O": Outside - this token is not part of a named entity.
+
+For example, consider the following sentence:
+
+"The CEO of Apple, Tim Cook, announced a new product yesterday."
+
+The NER component in spaCy might identify "Apple" as an organization and "Tim Cook" as a person. The ent_type_ attribute for the token "Apple" would be set to "ORG", and the ent_iob_ attribute would be set to "B" since it is the first token in the named entity. The ent_type_ attribute for the token "Tim Cook" would also be set to "PERSON", but the ent_iob_ attribute would be set to "I" since it is inside the named entity.
 
 lang_ , sentence morph
 
