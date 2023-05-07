@@ -210,7 +210,7 @@ The Matcher class works by defining a set of rules, where each rule specifies a 
 
 ### Spacy Custom Components
 
-Changes the doc object along the spacy pipeline.
+SpaCy allows you to extend its functionality by creating custom components that can be added to its processing pipeline. Custom components can be used to perform tasks such as feature extraction, entity linking, or sentiment analysis, among others.
 
 Say we want LOC label instead of the GPE label:
 
