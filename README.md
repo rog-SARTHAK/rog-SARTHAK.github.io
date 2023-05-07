@@ -208,4 +208,15 @@ The Matcher class works by defining a set of rules, where each rule specifies a 
 
 <p align="left"> <img src="https://raw.githubusercontent.com/rog-SARTHAK/rog-SARTHAK.github.io/main/Img/28.png" alt="token sent" width="700" height="400" /> </p>
 
+### Spacy Custom Components
+
+Changes the doc object along the spacy pipeline
+Say we want LOC label instead of the GPE label:
+
+<p align="left"> <img src="https://raw.githubusercontent.com/rog-SARTHAK/rog-SARTHAK.github.io/main/Img/29.png" alt="token sent" width="700" height="400" /> </p>
+
+<p align="left"> <img src="https://raw.githubusercontent.com/rog-SARTHAK/rog-SARTHAK.github.io/main/Img/30.png" alt="token sent" width="700" height="400" /> </p>
+
+<p align="left"> <img src="https://raw.githubusercontent.com/rog-SARTHAK/rog-SARTHAK.github.io/main/Img/31.png" alt="token sent" width="700" height="400" /> </p>
+
 We have covered basics of the building blocks of spaCy library.
