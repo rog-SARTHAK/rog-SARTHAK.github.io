@@ -21,7 +21,7 @@ Text annotations are also designed to allow a single source of truth: the Doc ob
 
 ## SpaCy Architecture:
 
-<p align="left"> <img src="https://raw.githubusercontent.com/rog-SARTHAK/rog-SARTHAK.github.io/main/Img/00.png" alt="import load" width="600" /> </p>
+<p align="left"> <img src="https://raw.githubusercontent.com/rog-SARTHAK/rog-SARTHAK.github.io/main/Img/00.png" alt="import load" height="600" width="600" /> </p>
 
 ### Dependencies to get started:
 
