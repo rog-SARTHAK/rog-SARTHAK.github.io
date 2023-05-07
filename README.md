@@ -100,16 +100,35 @@ For example, consider the following sentence:
 
 The NER component in spaCy might identify "Apple" as an organization and "Tim Cook" as a person. The ent_type_ attribute for the token "Apple" would be set to "ORG", and the ent_iob_ attribute would be set to "B" since it is the first token in the named entity. The ent_type_ attribute for the token "Tim Cook" would also be set to "PERSON", but the ent_iob_ attribute would be set to "I" since it is inside the named entity.
 
-### lemma: .lemma refers to the base or dictionary form of a word. It is the form of the word that appears in a dictionary, and it is the form to which inflected forms (such as plurals or verb conjugations) can be reduced.
+### lemma: 
+.lemma refers to the base or dictionary form of a word. It is the form of the word that appears in a dictionary, and it is the form to which inflected forms (such as plurals or verb conjugations) can be reduced.
 
 lemma form, morphological form, parts of speech and dependency form
 
 <p align="left"> <img src="https://raw.githubusercontent.com/rog-SARTHAK/rog-SARTHAK.github.io/main/Img/11.png" alt="token sent" width="700" height="400" /> </p>
 
+### morph:
+
+morph is a property of a token that provides information about its morphological features. Morphological features are properties of a word that are related to its form, such as tense, number, gender, case, and so on. These features can be useful for tasks such as part-of-speech tagging, named entity recognition, and dependency parsing.
+
+The morph property returns a Morphology object, which contains a number of attributes that represent the morphological features of the token. The available attributes depend on the language model being used
+
+### pos_:
+
+pos_ is a property of a token that provides its part-of-speech (POS) tag. The POS tag represents the syntactic category of a word, such as noun, verb, adjective, or adverb. POS tagging is a fundamental task in natural language processing and is used in many downstream tasks, such as named entity recognition, parsing, and information extraction.
+
+### .dep_
+
+dep_ is a property of a token that provides its dependency label, which represents the syntactic relationship between the token and its head in the parse tree. The dependency label describes the grammatical function of the token in the sentence, such as subject, object, or modifier. Dependency parsing is a fundamental task in natural language processing and is used in many downstream tasks, such as named entity recognition, relation extraction, and machine translation.
+
 
 lang_ , sentence morph
 
 <p align="left"> <img src="https://raw.githubusercontent.com/rog-SARTHAK/rog-SARTHAK.github.io/main/Img/12.png" alt="token sent" width="700" height="400" /> </p>
+
+### .lang_
+
+lang_ attribute is used to get the language of the processed text. The attribute returns a string that represents the language code of the processed text.
 
 ### Spacy displacy
 
@@ -117,6 +136,10 @@ lang_ , sentence morph
 
 
 <p align="left"> <img src="https://raw.githubusercontent.com/rog-SARTHAK/rog-SARTHAK.github.io/main/Img/14.PoS.png" alt="token sent" width="700" height="400" /> </p>
+
+### displacy
+
+displacy.render is a function that can be used to visualize dependency parses and named entities in a text using a web-based visualization tool. This function takes in a Doc object and a visualization style as inputs and returns an HTML string that can be rendered in a web browser.
 
 
 ### Named Entity Recognition or NER
@@ -135,6 +158,10 @@ We will now explore word vectors in spacy medium model
 Using word vectors with spacy
 
 <p align="left"> <img src="https://raw.githubusercontent.com/rog-SARTHAK/rog-SARTHAK.github.io/main/Img/18.png" alt="token sent" width="700" height="400" /> </p>
+
+### .vectors.most_similar
+
+The .vectors attribute is a two-dimensional NumPy array that contains the vector representations of all the tokens in the vocabulary of the loaded model. You can use the .most_similar method of this array to find the tokens that are most similar to a given token based on cosine similarity.
 
 Word embedding - apple and banana
 
