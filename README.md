@@ -35,6 +35,9 @@ Open Google colab notebook or Jupyter notebook and follow through the instructio
 ### Find the dataset here:
 https://github.com/rog-SARTHAK/rog-SARTHAK.github.io/tree/main/Dataset
 
+### Find the code here:
+https://github.com/rog-SARTHAK/rog-SARTHAK.github.io/blob/main/SpaCy_beginner.ipynb
+
 ### SpaCy Installation and loading:
 
 
